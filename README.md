@@ -1,4 +1,4 @@
-<h1 align="center">Machine Learning Terapan</h1>
+<h1 align="center">Applied Machine Learning</h1>
 
 This repository was created to keep source code while following the course.
 
